@@ -17,6 +17,12 @@
   
   
   
+  **archivo vim .bash_profile > google-chrome --kiosk --app=https:redhat.com
+  
+  
+  
+  
+  
   
   
   
