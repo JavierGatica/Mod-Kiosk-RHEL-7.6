@@ -15,3 +15,9 @@
   
   **AutomaticLogin=kiosk  = el nombre del usuario con el que se va acceder**
   
+  
+  
+  
+  
+  
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/desktop_migration_and_administration_guide/single-application-ode
